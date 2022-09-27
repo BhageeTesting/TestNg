@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+    <line>
+      <![CDATA[launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[money clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[link2 clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[searched successfully]]>
+    </line>
+    <line>
+      <![CDATA[selected successfull]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="74523" started-at="2022-09-12T12:09:50Z" finished-at="2022-09-12T12:11:04Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="74523" started-at="2022-09-12T12:09:50Z" finished-at="2022-09-12T12:11:04Z">
+      <class name="practise.Rediff_1">
+        <test-method status="PASS" signature="setup()[pri:0, instance:practise.Rediff_1@4439f31e]" name="setup" is-config="true" duration-ms="57206" started-at="2022-09-12T17:38:52Z" finished-at="2022-09-12T17:39:50Z">
+          <reporter-output>
+            <line>
+              <![CDATA[launched successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="link1()[pri:0, instance:practise.Rediff_1@4439f31e]" name="link1" duration-ms="18904" started-at="2022-09-12T17:39:50Z" finished-at="2022-09-12T17:40:09Z">
+          <reporter-output>
+            <line>
+              <![CDATA[money clicked successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- link1 -->
+        <test-method status="PASS" signature="link2()[pri:0, instance:practise.Rediff_1@4439f31e]" name="link2" duration-ms="16115" started-at="2022-09-12T17:40:09Z" finished-at="2022-09-12T17:40:25Z">
+          <reporter-output>
+            <line>
+              <![CDATA[link2 clicked successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- link2 -->
+        <test-method status="PASS" signature="search()[pri:0, instance:practise.Rediff_1@4439f31e]" name="search" duration-ms="34123" started-at="2022-09-12T17:40:25Z" finished-at="2022-09-12T17:40:59Z">
+          <reporter-output>
+            <line>
+              <![CDATA[searched successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method status="PASS" signature="select()[pri:0, instance:practise.Rediff_1@4439f31e]" name="select" duration-ms="5269" started-at="2022-09-12T17:40:59Z" finished-at="2022-09-12T17:41:04Z">
+          <reporter-output>
+            <line>
+              <![CDATA[selected successfull]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- select -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:practise.Rediff_1@4439f31e]" name="teardown" is-config="true" duration-ms="4294" started-at="2022-09-12T17:41:05Z" finished-at="2022-09-12T17:41:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- practise.Rediff_1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
